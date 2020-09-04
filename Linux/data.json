@@ -1,0 +1,7 @@
+{
+  "CrtFileName":"localhost.crt",
+
+  "KeyFileName":"localhost.key",
+
+  "Port": 443
+}

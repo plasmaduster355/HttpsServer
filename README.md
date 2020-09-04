@@ -1,7 +1,12 @@
 # Https server
-#
+---
 ## Intro
 You ever tried to make a server but always get that darn http instead of https? Are a newbie and only know html/css? Well congrats! This is you're short cut to https!
+---
+## Install
+Just download the folder that matches your server/computer's OS and you're done!
+
+---
 ## Usage
 1. Make you're html file and name it index.html(you can also make css and JS scripts just link them in html)
 2. put it in the **site** file.
@@ -9,3 +14,6 @@ You ever tried to make a server but always get that darn http instead of https? 
 4. Go to data.json file put the the names of the crt and key files(you will need to put in path with the server file)
 5. Set the port number you'll like to server https (the norm is port 443)
 6. Run the file and you're done!
+---
+## License & copyright
+Licensed under the [MIT License](LICENSE)
