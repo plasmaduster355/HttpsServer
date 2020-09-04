@@ -1,0 +1,32 @@
+.signup{
+  display: grid;
+  grid-template-areas:
+  'Word1 Username Username Username Username Username'
+  'Word2 Password Password Password Password Password'
+  'Word3 Email Email Email Email Email'
+  'Word4 rUsername rUsername rUsername rUsername rUsername';
+  background-color: #ffa500;
+  margin-left: 150px;
+  margin-top: 200px;
+  margin-right: 150px;
+}
+.username{grid-area: Username;
+              background-color: white;
+              padding: 5px;}
+.password{grid-area: Password;
+              background-color: white;
+              padding: 5px;}
+.email{grid-area: Email;
+              background-color: white;
+              padding: 5px;}
+.rUsername{grid-area: rUsername;
+              background-color: white;
+              padding: 5px;}
+.word1{grid-area: Word1;
+              padding: 5px;}
+.word2{grid-area: Word2;
+              padding: 5px;}
+.word3{grid-area: Word3;
+              padding: 5px;}
+.word4{grid-area: Word4;
+              padding: 5px;}
